@@ -2,6 +2,7 @@
   "name": "amplify-homes",
   "version": "0.1.0",
   "private": true,
+  "type": "module",
   "dependencies": {
     "@aws-amplify/ui-react": "^2.13.0",
     "@testing-library/jest-dom": "^5.11.4",

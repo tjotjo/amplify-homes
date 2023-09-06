@@ -35,7 +35,7 @@ export default function ActionCard(props) {
         alignSelf="stretch"
         position="relative"
         padding="0px 0px 0px 0px"
-        objectFit="cover"
+        objectFit="scale-down"
         src={home?.image_url}
         {...getOverrideProps(overrides, "image")}
       ></Image>
